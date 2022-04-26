@@ -33,7 +33,7 @@ The stop word list can be edited and tokens (words, symbols, digits) can be remo
 4. Check the numbers for density, readability and the co-occurence of words. 
 5. Do some words become more used at specific times throughout the timeline for the corpus? Is it possible to get an idea of the most important topics (not words), in each text?
 
-## Excersice 2 - contrast and compare stories by H. C Andersen vs the Grimm brothers (in groups of three) 
+## Exercise 2 - contrast and compare stories by H. C Andersen vs the Grimm brothers (in groups of three) 
 1. Upload the H. C Andersen corpus. Like in the first excersice, make sure the stop word list is edited. 
 2. Again, which insights into the fairy tales of H. C Andersen and the Grimm brothers can Voyant provide? 
 3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
