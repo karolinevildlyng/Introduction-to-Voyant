@@ -37,7 +37,8 @@ The stop word list can be edited and tokens (words, symbols, digits) can be remo
 1. Upload the H. C Andersen corpus. Like in the first excersice, make sure the stop word list is edited. 
 2. Again, which insights into the fairy tales of H. C Andersen and the Grimm brothers can Voyant provide? 
 3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
-5. Do you see differences between the two corpora? If so, wht are the main differences? 
+4. Repeat the proces for the Grimm brothers corpus in a separate browser window. 
+5. Do you see differences between the two corpora? If so, what are the main differences? 
 
 ## Links to resources for in-class and future reference
 * [Voyant](https://voyant-tools.org/)
