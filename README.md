@@ -10,14 +10,14 @@ Voyant is a set of tools for computational text analysis or text mining. Voyant 
 Go to Voyant.org. 
 You can either open an excisting corpus or upload a remote corpus. 
 
-After uploading the corpus on the main page, you will reach the ‘interface’ (‘skin’) that has five tools for text analysis by default. 
+After uploading the corpus on the main page, you will reach the analysis interface that has five tools for text analysis by default. 
 
-Here is a brief explanation of each tool:
-* Cirrus: word cloud that shows the most frequent terms
-* Reader: space for the revision and reading of the complete texts with a bar graph that indicates the amount of text of each document
-* Trends: distribution chart that shows the terms throughout the corpus (or within a document when only one is loaded)
-* Summary: provides an overview of certain textual statistics of the current corpus
-* Contexts: concordance that shows each occurrence of a keyword with some surrounding context
+Here is a quick explanation of each tool:
+* Cirrus: word cloud that shows the most frequent terms in the corpus. 
+* Reader: space for the revision and reading of the complete texts with a bar graph that indicates the amount of text of each document. 
+* Trends: distribution chart that shows the terms throughout the corpus (or within a document when only one is uploaded). 
+* Summary: provides an overview of textual statistics of the corpus, like readability, density and average words per sentence. 
+* Contexts: co-occurence of a keyword with the immediate textual context. 
 
 You can remove and add different tools to the interface depending on your needs. 
 
