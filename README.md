@@ -40,6 +40,7 @@ The stop word list can be edited and tokens (words, symbols, digits) can be remo
 4. Repeat the process for the Grimm brothers corpus in a separate browser window. 
 5. Do you see differences between the two corpora? If so, what are the main differences? 
 
+
 ## Links to resources for in-class and future reference
 * [Voyant](https://voyant-tools.org/)
 * [H.C Andersen corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
