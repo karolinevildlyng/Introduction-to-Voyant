@@ -28,10 +28,13 @@ The stop word list can be edited and tokens (words, symbols, digits) can be remo
 
 ##  Exercise 1 - inqure and experiment (in groups of three)
 1. Upload a text or put together a corpus from Gutenberg to Voyant. Remember to do this in a plain text format (txt). 
-2. Edit the stop word list as according to your need. 
+2. Find the “Options” button and edit or view the list of “Stopwords.” Does this change your results?
 3. What can Voyant tell you about the use of words in the corpus? For example, which are the most frequent words?
 4. Check the numbers for density, readability and the co-occurence of words. 
 5. Do some words become more used at specific times throughout the timeline for the corpus? Is it possible to get an idea of the most important topics (not words), in each text?
+6. What happens when you hover your mouse over different
+parts of the Cirrus widget? 
+7. What can you learn about this corpus from the wordcloud?
 
 ## Exercise 2 - contrast and compare stories by H. C Andersen vs the Grimm brothers (in groups of three) 
 1. Upload the H. C Andersen corpus. Like in the first excersice, make sure the stop word list is edited. 
@@ -40,6 +43,13 @@ The stop word list can be edited and tokens (words, symbols, digits) can be remo
 4. Repeat the process for the Grimm brothers corpus in a separate browser window. 
 5. Do you see differences between the two corpora? If so, what are the main differences? 
 
+## Exercise 3 - Choose your own adventure and explore 
+1. Find the drop-down menu and choose a new tool we haven’t looked
+at yet
+2. What is it called?
+3. How do you interact with it?
+4. What do you learn from it?
+5. What is confusing about it?
 
 ## Links to resources for in-class and future reference
 * [Voyant](https://voyant-tools.org/)
