@@ -26,7 +26,15 @@ Stop words are a central feature when performing natural language processing or 
 Stop words are a collection of words like the, then, if, or, some, what, and of.
 The stop word list can be edited and tokens (words, symbols, digits) can be removed or added as best to ensure a (relatively) clean set of data. 
 
-##  Exercise 1 - inqure and experiment (in groups of three)
+
+## Exercise 1 - contrast and compare stories by H. C Andersen vs the Grimm brothers (in groups of three) 
+1. Upload the H. C Andersen corpus. Like in the first excersice, make sure the stop word list is edited. 
+2. Again, which insights into the fairy tales of H. C Andersen and the Grimm brothers can Voyant provide? 
+3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
+4. Repeat the process for the Grimm brothers corpus in a separate browser window. 
+5. Do you see differences between the two corpora? If so, what are the main differences? 
+
+##  Exercise 2 - inqure and experiment (in groups of three)
 1. Upload a text or put together a corpus from Gutenberg to Voyant. Remember to do this in a plain text format (txt). 
 2. Find the “Options” button and edit or view the list of “Stopwords.” Does this change your results?
 3. What can Voyant tell you about the use of words in the corpus? For example, which are the most frequent words?
@@ -36,14 +44,7 @@ The stop word list can be edited and tokens (words, symbols, digits) can be remo
 parts of the Cirrus widget? 
 7. What can you learn about this corpus from the wordcloud?
 
-## Exercise 2 - contrast and compare stories by H. C Andersen vs the Grimm brothers (in groups of three) 
-1. Upload the H. C Andersen corpus. Like in the first excersice, make sure the stop word list is edited. 
-2. Again, which insights into the fairy tales of H. C Andersen and the Grimm brothers can Voyant provide? 
-3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
-4. Repeat the process for the Grimm brothers corpus in a separate browser window. 
-5. Do you see differences between the two corpora? If so, what are the main differences? 
-
-## Exercise 3 - Choose your own adventure and explore 
+## Bonus Exercise 3 - Choose your own adventure and explore 
 1. Find the drop-down menu and choose a new tool we haven’t looked
 at yet
 2. What is it called?
