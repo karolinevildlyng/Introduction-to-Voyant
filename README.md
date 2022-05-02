@@ -53,7 +53,7 @@ at yet
 5. What is confusing about it?
 
 ## Links to resources for in-class and future reference
-* [Powerpoint slides for course](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods.pdf]
+* [Powerpoint slides for course](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods.pdf)
 * [Voyant](https://voyant-tools.org/)
 * [H.C Andersen corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
 * [The Grimm Brothers corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/The%20Grimm%20Brothers%20fairy%20tale%20corpus.zip)
