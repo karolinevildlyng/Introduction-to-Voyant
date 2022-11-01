@@ -58,6 +58,7 @@ at yet
 * [Voyant](https://voyant-tools.org/)
 * [H.C Andersen corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
 * [The Grimm Brothers corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/The%20Grimm%20Brothers%20fairy%20tale%20corpus.zip)
+* [Stop Word List - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Stop%20word%20list%20-%20dansk)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Rawgraphs](https://rawgraphs.io/)
 * [Text: The Digital Humanities and Literary Studies](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198850489.pdf)
