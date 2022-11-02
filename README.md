@@ -56,6 +56,8 @@ at yet
 * [Powerpoint slides for course - English](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods.pdf)
 * [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduktion%20til%20digitale%20metoder.pdf)
 * [Voyant](https://voyant-tools.org/)
+* [H. C Andersen corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20corpus%20(dansk).zip)
+* [Brdr. Grimm corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Br%C3%B8drene%20Grimm%20corpus%20(dansk).zip)
 * [H.C Andersen corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
 * [The Grimm Brothers corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/The%20Grimm%20Brothers%20fairy%20tale%20corpus.zip)
 * [Stop Word List - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Stop%20word%20list%20-%20dansk)
