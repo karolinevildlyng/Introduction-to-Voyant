@@ -26,15 +26,7 @@ Stop words are a central feature when performing natural language processing or 
 Stop words are a collection of words like the, then, if, or, some, what, and of.
 The stop word list can be edited and tokens (words, symbols, digits) can be removed or added as best to ensure a (relatively) clean set of data. 
 
-
-## Exercise 1 - contrast and compare stories by H. C Andersen vs the Grimm brothers (in groups of two or three) 
-1. Upload the H. C Andersen corpus. Like in the first excersice, make sure the stop word list is edited. 
-2. Again, which insights into the fairy tales of H. C Andersen and the Grimm brothers can Voyant provide? 
-3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
-4. Repeat the process for the Grimm brothers corpus in a separate browser window. 
-5. Do you see differences between the two corpora? If so, what are the main differences? 
-
-##  Exercise 2 - inqure and experiment (in groups of two or three)
+##  Exercise 1 - inqure and experiment (in groups of two or three)
 1. Upload a text or put together a corpus from Gutenberg to Voyant. Remember to do this in a plain text format (txt). 
 2. Find the “Options” button and edit or view the list of “Stopwords.” Does this change your results?
 3. What can Voyant tell you about the use of words in the corpus? For example, which are the most frequent words?
@@ -42,7 +34,21 @@ The stop word list can be edited and tokens (words, symbols, digits) can be remo
 5. Do some words become more used at specific times throughout the timeline for the corpus? Is it possible to get an idea of the most important topics (not words), in each text?
 6. What happens when you hover your mouse over different
 parts of the Cirrus widget? 
-7. What can you learn about this corpus from the wordcloud?
+7. What can you learn about this corpus from the word cloud?
+
+## Exercise 2 - contrast and compare stories by H. C Andersen vs the Grimm brothers (in groups of two or three) 
+1. Upload the H. C Andersen corpus. Make sure the stop word list is edited. 
+2. Again, which insights into the fairy tales of H. C Andersen and the Grimm brothers can Voyant provide? 
+3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
+4. Repeat the process for the Grimm brothers corpus in a separate browser window. 
+5. Do you see differences between the two corpora? If so, what are the main differences? 
+
+## Alternative exercise 2 - contrast and compare novels from the time period around the publishing of Jane Eyre (1847)
+1. Upload the Jane Eyre corpus. Make sure the stop word list is edited. 
+2. Which insights into the novel can Voyant provide? 
+3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
+4. Repeat the process for a corpus of novels from the time period that you have put together. Do this in a seperate browser window.  
+5. Do you see differences between the two corpora? If so, what are the main differences? 
 
 ## Bonus Exercise 3 - Choose your own adventure and explore 
 1. Find the drop-down menu and choose a new tool we haven’t looked
@@ -56,6 +62,7 @@ at yet
 * [Powerpoint slides for course - English](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods.pdf)
 * [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduktion%20til%20digitale%20metoder.pdf)
 * [Voyant](https://voyant-tools.org/)
+* [Jane Eyre corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
 * [H. C Andersen corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20corpus%20(dansk).zip)
 * [Brdr. Grimm corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Br%C3%B8drene%20Grimm%20corpus%20(dansk).zip)
 * [H.C Andersen corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
