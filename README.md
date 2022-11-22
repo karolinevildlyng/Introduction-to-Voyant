@@ -62,7 +62,7 @@ at yet
 * [Powerpoint slides for course - English](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods.pdf)
 * [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduktion%20til%20digitale%20metoder.pdf)
 * [Voyant](https://voyant-tools.org/)
-* [Jane Eyre corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
+* [Jane Eyre corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Jane%20Eyre%20corpus.zip)
 * [H. C Andersen corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20corpus%20(dansk).zip)
 * [Brdr. Grimm corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Br%C3%B8drene%20Grimm%20corpus%20(dansk).zip)
 * [H.C Andersen corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20fairy%20tale%20corpus.zip)
