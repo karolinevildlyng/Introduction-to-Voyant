@@ -59,7 +59,7 @@ at yet
 5. What is confusing about it?
 
 ## Links to resources for in-class and future reference
-* [Powerpoint slides for course - English](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods.pdf)
+* [Powerpoint slides for course - English](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods%20(1).pdf)
 * [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduktion%20til%20digitale%20metoder.pdf)
 * [Voyant](https://voyant-tools.org/)
 * [Jane Eyre corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Jane%20Eyre%20corpus.zip)
