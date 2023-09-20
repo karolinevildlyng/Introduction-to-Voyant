@@ -60,7 +60,7 @@ at yet
 
 ## Links to resources for in-class and future reference
 * [Powerpoint slides for course - English](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods%20(1).pdf)
-* [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduktion%20til%20digitale%20metoder.pdf)
+* [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduktion%20til%20digitale%20metoder%20dansk.pdf)
 * [Voyant](https://voyant-tools.org/)
 * [H. C Andersen corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/HC%20Andersen%20corpus%20(dansk).zip)
 * [Brdr. Grimm corpus - dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Br%C3%B8drene%20Grimm%20corpus%20(dansk).zip)
