@@ -37,11 +37,10 @@ parts of the Cirrus widget?
 7. What can you learn about this corpus from the word cloud?
 
 ## Exercise 2 - contrast and compare Frankenstein (1818) with Frankenstein (1831) (in groups of two or three) 
-1. Upload the H. C Andersen corpus. Make sure the stop word list is edited. 
-2. Again, which insights into the fairy tales of H. C Andersen and the Grimm brothers can Voyant provide? 
+1. Upload the Frankenstein corpora. Make sure the stop word list is edited. 
+2. Again, which insights into the two versions can Voyant provide? 
 3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
-4. Repeat the process for the Grimm brothers corpus in a separate browser window. 
-5. Do you see differences between the two corpora? If so, what are the main differences? 
+4. Do you see differences between the two corpora? If so, what are the main differences? 
 
 ## Alternative exercise 2 - contrast and compare novels from the time period around the publishing of Frankenstein (1818)
 1. Upload the Frankenstein (1818) corpus. Make sure the stop word list is edited. 
