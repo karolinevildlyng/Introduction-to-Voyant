@@ -43,10 +43,10 @@ parts of the Cirrus widget?
 4. Do you see differences between the two corpora? If so, what are the main differences? 
 
 ## Alternative exercise 2 - contrast and compare novels from the time period around the publishing of Frankenstein (1818)
-1. Upload the Frankenstein (1818) corpus. Make sure the stop word list is edited. 
+1. Upload the H.C Andersen corpus. Make sure the stop word list is edited. 
 2. Which insights into the novel can Voyant provide? 
 3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
-4. Repeat the process for a corpus of novels from the time period that you have put together. Do this in a seperate browser window.  
+4. Repeat the process for the Grimm Brothers corpus. Do this in a seperate browser window.  
 5. Do you see differences between the two corpora? If so, what are the main differences? 
 
 ## Bonus Exercise 3 - Choose your own adventure and explore 
