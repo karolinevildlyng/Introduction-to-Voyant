@@ -42,7 +42,7 @@ parts of the Cirrus widget?
 3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
 4. Do you see differences between the two corpora? If so, what are the main differences? 
 
-## Alternative exercise 2 - contrast and compare novels from the time period around the publishing of Frankenstein (1818)
+## Alternative exercise 2 - contrast and compare fairy tales
 1. Upload the H.C Andersen corpus. Make sure the stop word list is edited. 
 2. Which insights into the novel can Voyant provide? 
 3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
