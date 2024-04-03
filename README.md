@@ -26,28 +26,28 @@ Stop words are a central feature when performing natural language processing or 
 Stop words are a collection of words like the, then, if, or, some, what, and of.
 The stop word list can be edited and tokens (words, symbols, digits) can be removed or added as best to ensure a (relatively) clean set of data. 
 
-##  Exercise 1 - inqure and experiment (in groups of two or three)
-1. Upload the Frankenstein (1818) corpus to Voyant.
+##  Exercise 1 - inqure and experiment (in groups of three on one computer)
+1. Upload the Grimm corpus to Voyant or use a corpus from Voyant's list.
 2. Find the “Options” button and edit or view the list of “Stopwords.” Does this change your results?
 3. What can Voyant tell you about the use of words in the corpus? For example, which are the most frequent words?
 4. Check the numbers for density, readability and the co-occurence of words. 
 5. Do some words become more used at specific times throughout the timeline for the corpus? Is it possible to get an idea of the most important topics (not words), in each text?
 6. What happens when you hover your mouse over different
 parts of the Cirrus widget? 
-7. What can you learn about this corpus from the word cloud?
+7. What can you learn about this corpus from the word cloud? 
 
-## Exercise 2 - contrast and compare Frankenstein (1818) with Frankenstein (1831) (in groups of two or three) 
-1. Upload the Frankenstein corpora. Make sure the stop word list is edited. 
-2. Again, which insights into the two versions can Voyant provide? 
-3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
-4. Do you see differences between the two corpora? If so, what are the main differences? 
-
-## Alternative exercise 2 - contrast and compare fairy tales
+## Exercise 2 - contrast and compare fairy tales
 1. Upload the H.C Andersen corpus. Make sure the stop word list is edited. 
 2. Which insights into the novel can Voyant provide? 
 3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
 4. Repeat the process for the Grimm Brothers corpus. Do this in a seperate browser window.  
-5. Do you see differences between the two corpora? If so, what are the main differences? 
+5. Do you see differences between the two corpora? If so, what are the main differences?
+
+## Alternative Exercise 2 - contrast and compare Frankenstein (1818) with Frankenstein (1831) (in groups of two or three) 
+1. Upload the Frankenstein corpora. Make sure the stop word list is edited. 
+2. Again, which insights into the two versions can Voyant provide? 
+3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
+4. Do you see differences between the two corpora? If so, what are the main differences?
 
 ## Bonus Exercise 3 - Choose your own adventure and explore 
 1. Find the drop-down menu and choose a new tool we haven’t looked
