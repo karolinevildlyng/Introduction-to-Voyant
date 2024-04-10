@@ -38,8 +38,9 @@ parts of the Cirrus widget?
 
 ## Exercise 2 - contrast and compare fairy tales
 1. Upload the Wollstonecraft corpus. Make sure the stop word list is edited. 
-2. Which insights into the text can Voyant provide? 
-3. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
+2. Which insights into the text can Voyant provide?
+3. Try to explore possible dichotomies in the text
+4. Check numbers for density, readability and the co-ocurence of words. Specifically pay attention to the tool Contexts. 
 
 ## Bonus Exercise 3 - Choose your own adventure and explore 
 1. Find the drop-down menu and choose a new tool we haven’t looked
