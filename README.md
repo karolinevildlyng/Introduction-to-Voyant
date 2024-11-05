@@ -52,7 +52,7 @@ at yet
 
 ## Links to resources for in-class and future reference
 * [Powerpoint slides for course - English](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduction%20to%20Digital%20Methods%20(1).pdf)
-* [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20Introduktion%20til%20digitale%20metoder%20dansk.pdf)
+* [Powerpoint slides for course - Dansk](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/PP%20-%20Dansk.pdf)
 * [Voyant](https://voyant-tools.org/)
 * [Frankenstein 1818 corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Frankenstein%201818%20corpus.txt)
 * [Frankenstein 1831 corpus](https://github.com/karolinevildlyng/Introduction-to-Voyant/blob/main/Frankenstein%201831%20corpus.txt)
