@@ -1,7 +1,7 @@
 # Introduction to Voyant
 This is the repository created for an in-class introduction to Voyant including: uploading a corpus, stopwords, general features, exercises and added resources. 
 
-## Voyant is
+## What is Voyant
 Voyant is a webbased tool or set of tools displayed in one interface. Voyant can be run either in a browser in which case you are accessing a remote server. Or downloaded to your desktop, running on your local server. 
 
 Voyant is a set of tools for computational text analysis or text mining. Voyant enables both distant and close reading of large bodies of text; a corpus. 
